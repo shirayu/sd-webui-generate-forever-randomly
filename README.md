@@ -8,4 +8,4 @@ Just set the value of seed to ``-1`` when ``Generate forever`` buttons are click
 ## References
 
 - [sd_copyguard](https://github.com/aka7774/sd_copyguard)
-- <https://blue-pen5805.fanbox.cc/posts/5358163>
+- [Seed を固定したまま Generate Forever して泣いた](https://blue-pen5805.fanbox.cc/posts/5358163)
